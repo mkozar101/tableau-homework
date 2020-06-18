@@ -1,0 +1,21 @@
+Impact of COVID19 on CitiBike Ridership in April (2019 v. 2020)
+
+Visualization 1:
+CitiBike recorded significantly fewer riders in April, 2020, than the same month the year before. Although ridership dropped across the system, not all stations saw the same magnitude decrease in ridership
+
+How did COVID19 affect usage?
+
+Visualization 2: 
+2020 saw an increase in median trip time from 12 minutes to 20 minutes. While in 2019 the median trip time peaked on the weekends, in 2020, we saw several weekday peaks. A possible explanation is that more people went to enjoy a bike ride for leisure than to commute.
+
+Visualization 3:
+The count of distinct bikes used per day moved in the opposite direction of median trip time. Not surprisingly, CitiBike saw a decrease in bike usage as so many residents stayed home during the pandemic lockdown. 
+These trends suggest that ridership behavior changed during the pandemic: fewer people took longer riders, shifting their usage from weekends to weekdays.  
+
+How did COVID19 impact destinations?
+
+Visualization 4:
+Average trip time increased in April 2020 versus 2019. Traveled destinations changed as well. In 2020, we saw significantly more riders stay in Manhattan, instead of journeying out to Brooklyn. Staying local likely contributed to a decrease in trip duration at certain stations. 
+
+Visualization 5:
+The impact on ridership of COVID19 becomes clear at the geographic level when considering number of distinct trips, with significantly few trips by station, especially in Brooklyn. 
